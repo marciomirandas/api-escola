@@ -1,3 +1,6 @@
-Projeto Django que consome a API 5 Day Weather Forecast da desenvolvedora Open Weather.
+Projeto Django REST Framework de avaliações dos curso de uma escola
 
-O usuário entra com a latitude e longitude em coordenadas décimais e é apresentado uma tabela com a previsão do tempo de 3h em 3h para os próximos cinco dias.
+CRUD genérico com Django REST Framework e views customizadas
+Relações e paginação
+Autenticação via token
+Permissões e limitação de requisições
